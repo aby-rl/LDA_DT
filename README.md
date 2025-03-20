@@ -40,4 +40,4 @@ La base de datos cuenta con la siguiente información:
 Este proyecto incluye los siguientes documentos:
 - [Reporte en formato ipynb](./LDAyDT.ipynb)
 - [Reporte en formato html](./LDAyDT.html)
-- [Base de datos](./student.csv)
+- [Base de datos](./students.csv)
